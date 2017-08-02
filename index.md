@@ -2,7 +2,7 @@
 layout: default
 title: N. Westerlaken's blog
 ---
-## Data lawyer by day and data lawyer by night.
+### Data lawyer by day and data lawyer by night.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
