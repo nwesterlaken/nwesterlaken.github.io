@@ -4,10 +4,6 @@ title: N. Westerlaken's blog
 ---
 ## Data lawyer by day and data lawyer by night.
 
----
-layout: default
----
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
