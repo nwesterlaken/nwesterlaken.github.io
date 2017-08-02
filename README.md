@@ -1,4 +1,5 @@
 https://github.com/jekyll/minima
+https://kramdown.gettalong.org/quickref.html
 
 ## Welcome to GitHub Pages
 
