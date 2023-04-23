@@ -1,6 +1,7 @@
 ---
 layout: default
 title: N. Westerlaken's blog
+plausible: nwesterlaken.github.io
 ---
 ### Data lawyer by day and data lawyer by night.
 
